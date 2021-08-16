@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "immutable": "^4.0.0-rc.14",
+    "node-fetch": "^2.6.1"
+  }
+}
